@@ -41,6 +41,8 @@ function.
     
 [Contract Source](https://github.com/Pelumi527/mini_flashloan/blob/main/src/lib.cairo)  • [Contract Test](https://github.com/Pelumi527/mini_flashloan/blob/main/tests/test_contract.cairo)
 
+To know more about Flashloan [EIP-3156](https://eips.ethereum.org/EIPS/eip-3156) (the flash loan standard)
+
 
 
 ## Contributing
